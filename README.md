@@ -6,3 +6,7 @@ Correo: gisellmazo@gmail.com
 
 Nombre: Santiago Betancur Graciano
 Correo: santiagobg@yopmail.com
+
+tatiana@yopmail.com Nombre: Tatiana Amariles
+
+Camilo@yopmail.com Nombre: Camilo Bello
