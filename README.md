@@ -9,3 +9,4 @@ Correo: santiagobg@yopmail.com
 
 tatiana@yopmail.com Nombre: Tatiana Amariles
 
+Mascota Gisell: Frida
