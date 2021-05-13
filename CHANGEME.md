@@ -6,7 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- Se agrega mascota Gisell
 - Se agrega mascota de Santiago
+
 
 ## [v1.0.2] 2021-05-13
 ### Fixed
