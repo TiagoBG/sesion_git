@@ -9,4 +9,4 @@ Correo: santiagobg@yopmail.com
 
 tatiana@yopmail.com Nombre: Tatiana Amariles
 
-juandiego@yopmail.com Nombre: Juan Diego Estradap
+juandiego@yopmail.com Nombre: Juan Diego Estrada
