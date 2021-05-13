@@ -10,6 +10,7 @@ Mascota: Paco
 
 tatiana@yopmail.com Nombre: Tatiana Amariles
 
+Mascota Gisell: Frida
 Camilo@yopmail.com Nombre: Camilo Bello
 
 juandiego@yopmail.com Nombre: Juan Diego Estrada
