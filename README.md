@@ -6,6 +6,7 @@ Correo: gisellmazo@gmail.com
 
 Nombre: Santiago Betancur Graciano
 Correo: santiagobg@yopmail.com
+Mascota: Paco
 
 tatiana@yopmail.com Nombre: Tatiana Amariles
 
